@@ -1,5 +1,4 @@
-Isochrones and Isodistance using Google's Direction API.
-Japanese ver.
+Isochrones and Isodistance using Google's Direction API. Japanese version.
 ---------------
 
 
